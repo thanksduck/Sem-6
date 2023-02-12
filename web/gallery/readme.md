@@ -3,8 +3,84 @@ so you can either [download](https://raw.githubusercontent.com/thanksduck/Sem-6/
 
 ### [index.html](index.html)
 
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noob's Gallery</title>
+    <!-- we will use the css file from this folder -->
+    <!-- <link rel="stylesheet" href="https://raw.githubusercontent.com/thanksduck/Sem-6/main/web/gallery/style.css"> -->
+    <link rel="stylesheet" href="https://cdn.rawgit.com/thanksduck/Sem-6/main/web/gallery/style.css">
+</head>
+
+<body>
+    <!-- so we will create a gallery in a flex for that we will proide 9 images -->
+    <!-- firs of all we will create an outer viewport with div
+    another wrapper and then container and in which flex -->
+
+    <div class="wrapper">
+        <div class="container">
+            <h2>Noob's Gallery</h2>
+            <div class="gallery">
+                <figure class="card">
+                    <!-- <img src="assets/image1.jpg" alt=""> -->
+                    <img src="https://github.com/thanksduck/Sem-6/blob/main/web/gallery/assets/image1.jpg?raw=true" alt="">
+                    <figcaption>image1</figcaption>
+                </figure>
+                <figure class="card">
+                    <!-- <img src="assets/image2.webp" alt=""> -->
+                    <img src="https://github.com/thanksduck/Sem-6/blob/main/web/gallery/assets/image2.webp?raw=true" alt="">
+                    <figcaption>image2</figcaption>
+                </figure>
+                <figure class="card">
+                    <!-- <img src="assets/image3.jpg" alt=""> -->
+                    <img src="https://github.com/thanksduck/Sem-6/blob/main/web/gallery/assets/image3.jpg?raw=true" alt="">
+                    <figcaption>image3</figcaption>
+                </figure>
+                <figure class="card">
+                    <!-- <img src="assets/image4.jpg" alt=""> -->
+                    <img src="https://github.com/thanksduck/Sem-6/blob/main/web/gallery/assets/image4.jpg?raw=true" alt="">
+                    <figcaption>image4</figcaption>
+                </figure>
+                <figure class="card">
+                    <!-- <img src="assets/image5.jpg" alt=""> -->
+                    <img src="https://github.com/thanksduck/Sem-6/blob/main/web/gallery/assets/image5.jpg?raw=true" alt="">
+                    <figcaption>image5</figcaption>
+                </figure>
+                <figure class="card">
+                    <!-- <img src="assets/image6.jpg" alt=""> -->
+                    <img src="https://github.com/thanksduck/Sem-6/blob/main/web/gallery/assets/image6.jpg?raw=true" alt="">
+                    <figcaption>image6</figcaption>
+                </figure>
+                <figure class="card">
+                    <!-- <img src="assets/image7.jpg" alt=""> -->
+                    <img src="https://github.com/thanksduck/Sem-6/blob/main/web/gallery/assets/image7.jpg?raw=true" alt="">
+                    <figcaption>image7</figcaption>
+                </figure>
+                <figure class="card">
+                    <!-- <img src="assets/image8.jpg" alt=""> -->
+                    <img src="https://github.com/thanksduck/Sem-6/blob/main/web/gallery/assets/image8.jpg?raw=true" alt="">
+                    <figcaption>image8</figcaption>
+                </figure>
+                <figure class="card">
+                    <!-- <img src="assets/image9.jpg" alt=""> -->
+                    <img src="https://github.com/thanksduck/Sem-6/blob/main/web/gallery/assets/image9.jpg?raw=true" alt="">
+                    <figcaption>image9</figcaption>
+                </figure>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
+```
 ### demo video
 
-i think GitHub does not allow to embedd youtube videos so i'll just put a link to the video
+i think GitHub does not allow to embedd youtube videos so i'll just put a link to the video **tap on the poster**
 
-[![gallery](https://github.com/thanksduck/Sem-6/blob/main/web/gallery/assets/poster.png?raw=true) just click on the pic if you dont want to run](https://www.youtube.com/watch?v=-3SLlOkI7Yk)
+[![gallery](https://github.com/thanksduck/Sem-6/blob/main/web/gallery/assets/poster.png?raw=true)](https://www.youtube.com/watch?v=-3SLlOkI7Yk)
