@@ -5,6 +5,6 @@ so you can either [download](https://raw.githubusercontent.com/thanksduck/Sem-6/
 
 ### demo video
 
-<video controls allowfullscreen autoplay muted poster="https://github.com/thanksduck/Sem-6/blob/main/web/gallery/assets/poster.png?raw=true">
-    <source src="https://www.youtube.com/embed/-3SLlOkI7Yk" type="video/mov">
-</video>
+i think GitHub does not allow to embedd youtube videos so i'll just put a link to the video
+
+[![gallery](https://github.com/thanksduck/Sem-6/blob/main/web/gallery/assets/poster.png?raw=true) just click on the pic if you dont want to run](https://www.youtube.com/watch?v=-3SLlOkI7Yk)
