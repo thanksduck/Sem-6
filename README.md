@@ -1,1 +1,2 @@
-# This is a repo for semester 6 study cs @ GNDEC Ludhiana 
+## Subjects
+Here is the links to jump to any subject :smiling_face_with_tear:
