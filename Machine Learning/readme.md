@@ -1,1 +1,1 @@
-## Machine Learning [syllabus](https://github.com/sukhmanpreet-k/Sem-6/blob/main/Machine%20Learning/Syllabus%20Machine%20Learning.pdf)
+## Machine Learning [syllabus](https://github.com/thanksduck/Sem-6/blob/main/Machine%20Learning/Syllabus%20Machine%20Learning.pdf)
