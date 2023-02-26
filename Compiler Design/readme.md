@@ -1,0 +1,1 @@
+## [Syllabus](https://github.com/thanksduck/Sem-6/blob/main/Compiler%20Design/Syllabus%20Compiler%20Design.pdf) for Compiler Design
