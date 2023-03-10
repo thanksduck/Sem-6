@@ -1,7 +1,7 @@
 import java.util.Scanner;
 //practical 5
 //in this program we will convert a binary number to decimal
-
+//feb 24, 2023
 public class binaryToDecimal {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 //practical 4
+//feb 24, 2023
 //we want to display the following pattern
 /* 
 1
