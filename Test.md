@@ -3,7 +3,6 @@ Automatically generate _table of contents_ by checking the option here: `Setting
 
 ## H2 Header
 ### H3 header
-#### H4 Header
 ##### H5 Header
 ###### H6 Header
 
@@ -17,7 +16,7 @@ Automatically generate _table of contents_ by checking the option here: `Setting
 
 ~~Strikethrough~~
 
-Break line (two spaces at end of line)  
+Break line (tw)  
 
 > Block quote
 
@@ -29,6 +28,10 @@ are
 awesome
 ```
 
+
+```c++
+#include<SDL2/SDL.h>
+```
 <!-- --------------- -->
  
 ## Lists
