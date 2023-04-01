@@ -1,0 +1,5 @@
+time , weather , temperature , company , humidity , wind , res
+morning , sunny , warm , yes , mild , strong , yes
+evening , rainy , cold , no , mild , normal , no
+morining , sunny , moderate , yes , normal , yes
+evening , sunny , cold , no high , strong , yes
