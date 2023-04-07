@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>23 SVGs Animated with CSS</title>
+  <style>
+    #svg-container {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .svg-image {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      opacity: 0;
+      animation: show-image 1s steps(23) infinite;
+    }
+
+    @keyframes show-image {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="svg-container"></div>
+
+  <script>
+    const svgContainer = document.getElementById("svg-container");
+    let currentFrame = 1;
+
+    function loadNextSVG() {
+      const svgElement = document.createElement("object");
+      svgElement.classList.add("svg-image");
+      svgElement.setAttribute("type", "image/svg+xml");
+      svgElement.setAttribute("data", `peng-${currentFrame}.svg`);
+      svgContainer.appendChild(svgElement);
+      currentFrame = (currentFrame % 23) + 1;
+      setTimeout(loadNextSVG, 1000 / 23);
+    }
+
+    window.onload = function() {
+      loadNextSVG();
+    };
+  </script>
+</body>
+</html>
