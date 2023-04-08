@@ -14,7 +14,7 @@ let availableQuesions = [];
 let questions = [];
 
 fetch(
-    'https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple'
+    'https://raw.githubusercontent.com/thanksduck/Sem-6/970ece2f521151ebd8e90759f4a1ba0d042be697/minor/Quiz%20App%20Master/ques.json'
 )
     .then((res) => {
         return res.json();

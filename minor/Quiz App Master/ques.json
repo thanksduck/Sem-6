@@ -2,83 +2,225 @@
     "response_code": 0,
     "results": [
         {
-        "category": "English Language",
-        "type": "multiple",
-        "difficulty": "easy",
-        "question": "Which word describes a word that has the same meaning as another word?",
-        "correct_answer": "Synonym",
-        "incorrect_answers": ["Antonym", "Homonym", "Pseudonym"]
+            "category": "English Language",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which word describes a word that has the same meaning as another word?",
+            "correct_answer": "Synonym",
+            "incorrect_answers": [
+                "Antonym",
+                "Homonym",
+                "Pseudonym"
+            ]
         },
         {
-        "category": "English Language",
-        "type": "multiple",
-        "difficulty": "easy",
-        "question": "What is the past tense of the verb 'to be'?",
-        "correct_answer": "Was/were",
-        "incorrect_answers": ["Is/are", "Am", "Be"]
+            "category": "English Language",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the past tense of the verb 'to be'?",
+            "correct_answer": "Was/were",
+            "incorrect_answers": [
+                "Is/are",
+                "Am",
+                "Be"
+            ]
         },
         {
-        "category": "English Language",
-        "type": "multiple",
-        "difficulty": "easy",
-        "question": "Which punctuation mark indicates a pause in a sentence?",
-        "correct_answer": "Comma",
-        "incorrect_answers": ["Period", "Exclamation mark", "Question mark"]
+            "category": "English Language",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which punctuation mark indicates a pause in a sentence?",
+            "correct_answer": "Comma",
+            "incorrect_answers": [
+                "Period",
+                "Exclamation mark",
+                "Question mark"
+            ]
         },
         {
-        "category": "English Language",
-        "type": "multiple",
-        "difficulty": "easy",
-        "question": "What is the term for a word that is spelled the same forwards and backwards?",
-        "correct_answer": "Palindrome",
-        "incorrect_answers": ["Simile", "Oxymoron", "Metaphor"]
+            "category": "English Language",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the term for a word that is spelled the same forwards and backwards?",
+            "correct_answer": "Palindrome",
+            "incorrect_answers": [
+                "Simile",
+                "Oxymoron",
+                "Metaphor"
+            ]
         },
         {
-        "category": "English Language",
-        "type": "multiple",
-        "difficulty": "easy",
-        "question": "Which word means the study of the history of words and their origins?",
-        "correct_answer": "Etymology",
-        "incorrect_answers": ["Lexicography", "Grammar", "Syntax"]
+            "category": "English Language",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which word means the study of the history of words and their origins?",
+            "correct_answer": "Etymology",
+            "incorrect_answers": [
+                "Lexicography",
+                "Grammar",
+                "Syntax"
+            ]
         },
         {
-        "category": "English Language",
-        "type": "multiple",
-        "difficulty": "easy",
-        "question": "What is the term for a word that is spelled incorrectly, but sounds like the correct word?",
-        "correct_answer": "Homophone",
-        "incorrect_answers": ["Synonym", "Antonym", "Anagram"]
+            "category": "English Language",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the term for a word that is spelled incorrectly, but sounds like the correct word?",
+            "correct_answer": "Homophone",
+            "incorrect_answers": [
+                "Synonym",
+                "Antonym",
+                "Anagram"
+            ]
         },
         {
-        "category": "English Language",
-        "type": "multiple",
-        "difficulty": "easy",
-        "question": "What is the term for a word that is the opposite in meaning to another word?",
-        "correct_answer": "Antonym",
-        "incorrect_answers": ["Synonym", "Homonym", "Pseudonym"]
+            "category": "English Language",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the term for a word that is the opposite in meaning to another word?",
+            "correct_answer": "Antonym",
+            "incorrect_answers": [
+                "Synonym",
+                "Homonym",
+                "Pseudonym"
+            ]
         },
         {
-        "category": "English Language",
-        "type": "multiple",
-        "difficulty": "easy",
-        "question": "What is the term for a group of words that are pronounced the same way, but have different meanings and spellings?",
-        "correct_answer": "Homonym",
-        "incorrect_answers": ["Synonym", "Antonym", "Pseudonym"]
+            "category": "English Language",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the term for a group of words that are pronounced the same way, but have different meanings and spellings?",
+            "correct_answer": "Homonym",
+            "incorrect_answers": [
+                "Synonym",
+                "Antonym",
+                "Pseudonym"
+            ]
         },
         {
-        "category": "English Language",
-        "type": "multiple",
-        "difficulty": "easy",
-        "question": "What is the term for a figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable?",
-        "correct_answer": "Metaphor",
-        "incorrect_answers": ["Simile", "Irony", "Hyperbole"]
+            "category": "English Language",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the term for a figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable?",
+            "correct_answer": "Metaphor",
+            "incorrect_answers": [
+                "Simile",
+                "Irony",
+                "Hyperbole"
+            ]
         },
         {
-        "category": "English Language",
-        "type": "multiple",
-        "difficulty": "easy",
-        "question": "What is the term for a group of words that are used to express a single idea, but do not form a complete sentence?",
-        "correct_answer": "Phrase",
-        "incorrect_answers": ["Clause", "Sentence", "Paragraph"]       }
+            "category": "English Language",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the term for a group of words that are used to express a single idea, but do not form a complete sentence?",
+            "correct_answer": "Phrase",
+            "incorrect_answers": [
+                "Clause",
+                "Sentence",
+                "Paragraph"
+            ]
+        },
+        {
+            "category": "English Speaking",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the term for words that have the same spelling and pronunciation but different meanings?",
+            "correct_answer": "Homonyms",
+            "incorrect_answers": [
+                "Synonyms",
+                "Antonyms",
+                "Homophones"
+            ]
+        },
+        {
+            "category": "English Speaking",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the term for words that have the same or similar meanings?",
+            "correct_answer": "Synonyms",
+            "incorrect_answers": [
+                "Homonyms",
+                "Antonyms",
+                "Heteronyms"
+            ]
+        },
+        {
+            "category": "English Speaking",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the term for a word that is spelled the same as another word but has a different meaning?",
+            "correct_answer": "Homograph",
+            "incorrect_answers": [
+                "Homonym",
+                "Synonym",
+                "Antonym"
+            ]
+        },
+        {
+            "category": "English Speaking",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the term for a word that has the opposite meaning of another word?",
+            "correct_answer": "Antonym",
+            "incorrect_answers": [
+                "Synonym",
+                "Homonym",
+                "Heteronym"
+            ]
+        },
+        {
+            "category": "English Speaking",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the term for a word that sounds the same as another word but has a different spelling and meaning?",
+            "correct_answer": "Homophone",
+            "incorrect_answers": [
+                "Homonym",
+                "Synonym",
+                "Antonym"
+            ]
+        },
+        {
+            "category": "English Speaking",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following is NOT a type of sentence?",
+            "correct_answer": "Narrative",
+            "incorrect_answers": ["Interrogative", "Imperative", "Declarative"]
+          },
+          {
+            "category": "English Speaking",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following is a synonym for 'confused'?",
+            "correct_answer": "Perplexed",
+            "incorrect_answers": ["Content", "Pleased", "Satisfied"]
+          },
+          {
+            "category": "English Speaking",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the term for a word that is spelled the same way but has a different meaning when capitalized?",
+            "correct_answer": "Capitonym",
+            "incorrect_answers": ["Homonym", "Synonym", "Antonym"]
+          },
+          {
+            "category": "English Speaking",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the term for the study of the origin and history of words?",
+            "correct_answer": "Etymology",
+            "incorrect_answers": ["Grammar", "Syntax", "Pronunciation"]
+          },
+          {
+            "category": "English Speaking",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following is a figure of speech that uses exaggeration for emphasis or effect?",
+            "correct_answer": "Hyperbole",
+            "incorrect_answers": ["Simile", "Metaphor", "Personification"]
+          }
+          
     ]
 }
