@@ -1,0 +1,84 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+        "category": "English Language",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which word describes a word that has the same meaning as another word?",
+        "correct_answer": "Synonym",
+        "incorrect_answers": ["Antonym", "Homonym", "Pseudonym"]
+        },
+        {
+        "category": "English Language",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the past tense of the verb 'to be'?",
+        "correct_answer": "Was/were",
+        "incorrect_answers": ["Is/are", "Am", "Be"]
+        },
+        {
+        "category": "English Language",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which punctuation mark indicates a pause in a sentence?",
+        "correct_answer": "Comma",
+        "incorrect_answers": ["Period", "Exclamation mark", "Question mark"]
+        },
+        {
+        "category": "English Language",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the term for a word that is spelled the same forwards and backwards?",
+        "correct_answer": "Palindrome",
+        "incorrect_answers": ["Simile", "Oxymoron", "Metaphor"]
+        },
+        {
+        "category": "English Language",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which word means the study of the history of words and their origins?",
+        "correct_answer": "Etymology",
+        "incorrect_answers": ["Lexicography", "Grammar", "Syntax"]
+        },
+        {
+        "category": "English Language",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the term for a word that is spelled incorrectly, but sounds like the correct word?",
+        "correct_answer": "Homophone",
+        "incorrect_answers": ["Synonym", "Antonym", "Anagram"]
+        },
+        {
+        "category": "English Language",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the term for a word that is the opposite in meaning to another word?",
+        "correct_answer": "Antonym",
+        "incorrect_answers": ["Synonym", "Homonym", "Pseudonym"]
+        },
+        {
+        "category": "English Language",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the term for a group of words that are pronounced the same way, but have different meanings and spellings?",
+        "correct_answer": "Homonym",
+        "incorrect_answers": ["Synonym", "Antonym", "Pseudonym"]
+        },
+        {
+        "category": "English Language",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the term for a figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable?",
+        "correct_answer": "Metaphor",
+        "incorrect_answers": ["Simile", "Irony", "Hyperbole"]
+        },
+        {
+        "category": "English Language",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the term for a group of words that are used to express a single idea, but do not form a complete sentence?",
+        "correct_answer": "Phrase",
+        "incorrect_answers": ["Clause", "Sentence", "Paragraph"]       }
+    ]
+}
