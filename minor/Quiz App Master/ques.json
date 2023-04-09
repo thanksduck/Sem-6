@@ -5,62 +5,61 @@
             "category": "English Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which word describes a word that has the same meaning as another word?",
-            "correct_answer": "Synonym",
+            "question": "Translate 'a girl and a woman' to Hindi",
+            "correct_answer": "एक लड़की और एक महिला",
             "incorrect_answers": [
-                "Antonym",
-                "Homonym",
-                "Pseudonym"
+                "एक लड़की और एक बालिका",
+                "एक औरत और एक लड़की",
+                "एक आदमी और एक औरत"
             ]
         },
         {
-            "category": "English Language",
-            "type": "multiple",
+            "category": "Hindi Language",
+            "type": "boolean",
             "difficulty": "easy",
-            "question": "What is the past tense of the verb 'to be'?",
-            "correct_answer": "Was/were",
-            "incorrect_answers": [
-                "Is/are",
-                "Am",
-                "Be"
-            ]
+            "question": "What is the English translation of 'मै दुखी नहीं हूँ'?",
+            "correct_answer": "I am not sad",
+            "incorrect_answers": ["I am sad", "I am happy", "I am angry"]
         },
         {
-            "category": "English Language",
+            "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which punctuation mark indicates a pause in a sentence?",
-            "correct_answer": "Comma",
+            "question": "What is the Hindi translation of 'My sister is not tall'?",
+            "correct_answer": "मेरी बहन लंबी नहीं है",
             "incorrect_answers": [
-                "Period",
-                "Exclamation mark",
-                "Question mark"
+              "मेरी बहन बहुत लंबी है",
+              "मेरी बहन कम लंबी है",
+              "मेरी बहन बहुत छोटी है"
             ]
-        },
-        {
-            "category": "English Language",
+          },
+          
+          {
+            "category": "Hindi Language",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the English translation of 'तुम्हारी कुर्सी आरामदायक है'?",
+            "correct_answer": "Your chair is comfortable",
+            "incorrect_answers": [
+              "Your chair is uncomfortable",
+              "Your chair is broken",
+              "Your chair is beautiful"
+            ]
+          },
+          
+          {
+            "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the term for a word that is spelled the same forwards and backwards?",
-            "correct_answer": "Palindrome",
+            "question": "What is the English translation of 'मेरे दादा दादी कबड्डी देखते हैं।'?",
+            "correct_answer": "My grandparents watch kabaddi.",
             "incorrect_answers": [
-                "Simile",
-                "Oxymoron",
-                "Metaphor"
+              "My parents watch kabaddi.",
+              "My siblings watch kabaddi.",
+              "My friends watch kabaddi."
             ]
-        },
-        {
-            "category": "English Language",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which word means the study of the history of words and their origins?",
-            "correct_answer": "Etymology",
-            "incorrect_answers": [
-                "Lexicography",
-                "Grammar",
-                "Syntax"
-            ]
-        },
+          },
+          
         {
             "category": "English Language",
             "type": "multiple",
@@ -74,152 +73,158 @@
             ]
         },
         {
-            "category": "English Language",
+            "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the term for a word that is the opposite in meaning to another word?",
-            "correct_answer": "Antonym",
+            "question": "What is the Hindi translation of 'That is her cat.'?",
+            "correct_answer": "वह उसकी बिल्ली है।",
             "incorrect_answers": [
-                "Synonym",
-                "Homonym",
-                "Pseudonym"
+              "वह उसका कुत्ता है।",
+              "वह उसका घर है।",
+              "वह उसकी गाड़ी है।"
             ]
-        },
-        {
-            "category": "English Language",
+          },
+          
+          {
+            "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the term for a group of words that are pronounced the same way, but have different meanings and spellings?",
-            "correct_answer": "Homonym",
+            "question": "What is the Hindi translation of 'Is this your jacket?'",
+            "correct_answer": "क्या यह आपकी जैकेट है?",
             "incorrect_answers": [
-                "Synonym",
-                "Antonym",
-                "Pseudonym"
+              "क्या यह आपका कोट है?",
+              "क्या यह आपकी साड़ी है?",
+              "क्या यह आपकी पैंट है?"
             ]
-        },
-        {
-            "category": "English Language",
+          },
+          
+          {
+            "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the term for a figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable?",
-            "correct_answer": "Metaphor",
+            "question": "What is the Hindi translation of 'They meet every Saturday.'?",
+            "correct_answer": "वे हर शनिवार मिलते हैं।",
             "incorrect_answers": [
-                "Simile",
-                "Irony",
-                "Hyperbole"
+              "वे हर मंगलवार मिलते हैं।",
+              "वे हर बुधवार मिलते हैं।",
+              "वे हर गुरुवार मिलते हैं।"
             ]
-        },
-        {
-            "category": "English Language",
+          },
+          
+          {
+            "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the term for a group of words that are used to express a single idea, but do not form a complete sentence?",
-            "correct_answer": "Phrase",
+            "question": "What is the English translation of 'मेरे माता पिता फुटबॉल देखते हैं।'?",
+            "correct_answer": "My parents watch football.",
             "incorrect_answers": [
-                "Clause",
-                "Sentence",
-                "Paragraph"
+              "My parents play football.",
+              "I watch football with my parents.",
+              "My parents like basketball."
             ]
-        },
-        {
-            "category": "English Speaking",
+          },
+          
+          {
+            "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the term for words that have the same spelling and pronunciation but different meanings?",
-            "correct_answer": "Homonyms",
+            "question": "What is the English translation of 'एक और दो'?",
+            "correct_answer": "One and two",
             "incorrect_answers": [
-                "Synonyms",
-                "Antonyms",
-                "Homophones"
+              "Two and three",
+              "Three and four",
+              "Four and five"
             ]
-        },
-        {
-            "category": "English Speaking",
+          },
+          
+          {
+            "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the term for words that have the same or similar meanings?",
-            "correct_answer": "Synonyms",
+            "question": "What is the Hindi translation of 'One and two'?",
+            "correct_answer": "एक और दो",
             "incorrect_answers": [
-                "Homonyms",
-                "Antonyms",
-                "Heteronyms"
+              "दो और तीन",
+              "तीन और चार",
+              "चार और पांच"
             ]
-        },
-        {
-            "category": "English Speaking",
+          },
+          
+          {
+            "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the term for a word that is spelled the same as another word but has a different meaning?",
-            "correct_answer": "Homograph",
+            "question": "What is the English translation of 'हम लड़कियाँ हैं'?",
+            "correct_answer": "We are girls.",
             "incorrect_answers": [
-                "Homonym",
-                "Synonym",
-                "Antonym"
+              "They are girls.",
+              "You are girls.",
+              "I am a girl."
             ]
-        },
-        {
-            "category": "English Speaking",
+          },
+          
+          {
+            "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the term for a word that has the opposite meaning of another word?",
-            "correct_answer": "Antonym",
+            "question": "What is the English translation of 'मेरी बहन को फ्रेंच किताबें पसंद हैं'?",
+            "correct_answer": "My sister likes French books.",
             "incorrect_answers": [
-                "Synonym",
-                "Homonym",
-                "Heteronym"
+              "My brother likes French books.",
+              "My father likes French books.",
+              "My mother likes French books."
             ]
-        },
-        {
-            "category": "English Speaking",
+          },
+          
+          {
+            "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the term for a word that sounds the same as another word but has a different spelling and meaning?",
-            "correct_answer": "Homophone",
+            "question": "What is the English translation of 'आदमी और औरतें'?",
+            "correct_answer": "Men and women",
             "incorrect_answers": [
-                "Homonym",
-                "Synonym",
-                "Antonym"
+              "Boys and girls",
+              "Fathers and mothers",
+              "Brothers and sisters"
             ]
-        },
-        {
-            "category": "English Speaking",
+          },
+          
+          {
+            "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which of the following is NOT a type of sentence?",
-            "correct_answer": "Narrative",
-            "incorrect_answers": ["Interrogative", "Imperative", "Declarative"]
+            "question": "What is the Hindi translation of 'I drink water'?",
+            "correct_answer": "मैं पानी पीता हूँ।",
+            "incorrect_answers": [
+              "मैं भोजन करता हूँ।",
+              "मैं दौड़ता हूँ।",
+              "मैं सोता हूँ।"
+            ]
           },
           {
-            "category": "English Speaking",
+            "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which of the following is a synonym for 'confused'?",
-            "correct_answer": "Perplexed",
-            "incorrect_answers": ["Content", "Pleased", "Satisfied"]
+            "question": "What is the Hindi translation of 'Is Aamir your friend?'",
+            "correct_answer": "क्या आमिर आपका दोस्त है?",
+            "incorrect_answers": [
+              "क्या आप अपने दोस्त के साथ खेलते हो?",
+              "क्या आप अपने घर में हैं?",
+              "क्या आप बात करते हो?"
+            ]
           },
+          
           {
-            "category": "English Speaking",
+            "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the term for a word that is spelled the same way but has a different meaning when capitalized?",
-            "correct_answer": "Capitonym",
-            "incorrect_answers": ["Homonym", "Synonym", "Antonym"]
-          },
-          {
-            "category": "English Speaking",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the term for the study of the origin and history of words?",
-            "correct_answer": "Etymology",
-            "incorrect_answers": ["Grammar", "Syntax", "Pronunciation"]
-          },
-          {
-            "category": "English Speaking",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which of the following is a figure of speech that uses exaggeration for emphasis or effect?",
-            "correct_answer": "Hyperbole",
-            "incorrect_answers": ["Simile", "Metaphor", "Personification"]
+            "question": "What is the English translation of 'हम कभी नहीं नाचते हैं।'?",
+            "correct_answer": "We never dance.",
+            "incorrect_answers": [
+              "We always dance.",
+              "We sometimes dance.",
+              "We rarely dance."
+            ]
           }
           
     ]
