@@ -5,7 +5,7 @@
             "category": "English Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें'a girl and a woman'",
+            "question": "इस वाक्य का अनुवाद करें 'a girl and a woman'",
             "correct_answer": "एक लड़की और एक महिला",
             "incorrect_answers": [
                 "एक लड़की और एक बालिका",
@@ -17,7 +17,7 @@
             "category": "Hindi Language",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें'मै दुखी नहीं हूँ'",
+            "question": "इस वाक्य का अनुवाद करें 'मै दुखी नहीं हूँ'",
             "correct_answer": "I am not sad",
             "incorrect_answers": ["I am sad", "I am happy", "I am angry"]
         },
@@ -25,7 +25,7 @@
             "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें'My sister is not tall'",
+            "question": "इस वाक्य का अनुवाद करें 'My sister is not tall'",
             "correct_answer": "मेरी बहन लंबी नहीं है",
             "incorrect_answers": [
               "मेरी बहन बहुत लंबी है",
@@ -38,7 +38,7 @@
             "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "इस वाक्य का अनुवाद करें'तुम्हारी कुर्सी आरामदायक है'",
+            "question": "इस वाक्य का अनुवाद करें 'तुम्हारी कुर्सी आरामदायक है'",
             "correct_answer": "Your chair is comfortable",
             "incorrect_answers": [
               "Your chair is uncomfortable",
@@ -51,7 +51,7 @@
             "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें'मेरे दादा दादी कबड्डी देखते हैं।'",
+            "question": "इस वाक्य का अनुवाद करें 'मेरे दादा दादी कबड्डी देखते हैं।'",
             "correct_answer": "My grandparents watch kabaddi.",
             "incorrect_answers": [
               "My parents watch kabaddi.",
@@ -64,7 +64,7 @@
             "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें'That is her cat.'",
+            "question": "इस वाक्य का अनुवाद करें 'That is her cat.'",
             "correct_answer": "वह उसकी बिल्ली है।",
             "incorrect_answers": [
               "वह उसका कुत्ता है।",
@@ -77,7 +77,7 @@
             "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें'Is this your jacket?'",
+            "question": "इस वाक्य का अनुवाद करें 'Is this your jacket?'",
             "correct_answer": "क्या यह आपकी जैकेट है",
             "incorrect_answers": [
               "क्या यह आपका कोट है",
@@ -90,7 +90,7 @@
             "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें'They meet every Saturday.'",
+            "question": "इस वाक्य का अनुवाद करें 'They meet every Saturday.'",
             "correct_answer": "वे हर शनिवार मिलते हैं।",
             "incorrect_answers": [
               "वे हर मंगलवार मिलते हैं।",
@@ -103,7 +103,7 @@
             "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें'मेरे माता पिता फुटबॉल देखते हैं।'",
+            "question": "इस वाक्य का अनुवाद करें 'मेरे माता पिता फुटबॉल देखते हैं।'",
             "correct_answer": "My parents watch football.",
             "incorrect_answers": [
               "My parents play football.",
@@ -116,7 +116,7 @@
             "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें'एक और दो'",
+            "question": "इस वाक्य का अनुवाद करें 'एक और दो'",
             "correct_answer": "One and two",
             "incorrect_answers": [
               "Two and three",
@@ -129,7 +129,7 @@
             "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें'One and two'",
+            "question": "इस वाक्य का अनुवाद करें 'One and two'",
             "correct_answer": "एक और दो",
             "incorrect_answers": [
               "दो और तीन",
@@ -142,7 +142,7 @@
             "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें'हम लड़कियाँ हैं'",
+            "question": "इस वाक्य का अनुवाद करें 'हम लड़कियाँ हैं'",
             "correct_answer": "We are girls.",
             "incorrect_answers": [
               "They are girls.",
@@ -155,7 +155,7 @@
             "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें'मेरी बहन को फ्रेंच किताबें पसंद हैं'",
+            "question": "इस वाक्य का अनुवाद करें 'मेरी बहन को फ्रेंच किताबें पसंद हैं'",
             "correct_answer": "My sister likes French books.",
             "incorrect_answers": [
               "My brother likes French books.",
@@ -168,7 +168,7 @@
             "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें'आदमी और औरतें'",
+            "question": "इस वाक्य का अनुवाद करें 'आदमी और औरतें'",
             "correct_answer": "Men and women",
             "incorrect_answers": [
               "Boys and girls",
@@ -181,7 +181,7 @@
             "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें'I drink water'",
+            "question": "इस वाक्य का अनुवाद करें 'I drink water'",
             "correct_answer": "मैं पानी पीता हूँ।",
             "incorrect_answers": [
               "मैं भोजन करता हूँ।",
@@ -193,7 +193,7 @@
             "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें'Is Aamir your friend?'",
+            "question": "इस वाक्य का अनुवाद करें 'Is Aamir your friend?'",
             "correct_answer": "क्या आमिर आपका दोस्त है",
             "incorrect_answers": [
               "क्या आप अपने दोस्त के साथ खेलते हो",
@@ -206,7 +206,7 @@
             "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें'हम कभी नहीं नाचते हैं।'",
+            "question": "इस वाक्य का अनुवाद करें 'हम कभी नहीं नाचते हैं।'",
             "correct_answer": "We never dance.",
             "incorrect_answers": [
               "We always dance.",
