@@ -201,7 +201,30 @@
               "क्या आप बात करते हो"
             ]
           },
-          
+          {
+            "category": "Hindi Language",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "इस अंग्रेजी वाक्य का हिंदी में अनुवाद करें: 'The intricacies of the language were lost on the foreigner.'",
+            "correct_answer": "'भाषा की जटिलताएँ विदेशी के लिए समझ में नहीं आईं।'",
+            "incorrect_answers": ["'विदेशी के लिए भाषा की जटिलताएँ समझ में नहीं आईं।'", "'भाषा की जटिलताओं को विदेशी ने नहीं समझा।'", "'भाषा की जटिलताओं से विदेशी को परेशानी हुई।'"]
+            },
+            {
+            "category": "English Language",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "इस वाक्य का अनुवाद करें: 'अध्ययन से हमें ज्ञान प्राप्त होता है।'",
+            "correct_answer": "'We gain knowledge through study.'",
+            "incorrect_answers": ["'Knowledge is gained through study.'", "'Study is the key to gaining knowledge.'", "'Through knowledge, we study.'"]
+            },
+            {
+            "category": "Hindi Language",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "इस वाक्य का अनुवाद करें: 'The mountains echoed with the sound of the temple bells.'",
+            "correct_answer": "'पहाड़ों में मंदिर की घंटियों की आवाज सुनाई दी।'",
+            "incorrect_answers": ["'पहाड़ों में घंटियों की आवाज सुनाई दी।'", "'मंदिर की घंटियों की आवाज पहाड़ों से गूंज उठी।'", "'पहाड़ों में मंदिर की घंटियों की गूंज सुनाई दी।'"]
+            },
           {
             "category": "Hindi Language",
             "type": "multiple",
@@ -213,7 +236,55 @@
               "We sometimes dance.",
               "We rarely dance."
             ]
-          }
+          },
+          {
+            "category": "English ",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "इस वाक्य का अनुवाद करें 'I am not sure if I can come tomorrow' ",
+            "correct_answer": "मुझे नहीं पता कि कल मैं आ सकता हूँ या नहीं",
+            "incorrect_answers": [
+            "मैं कल आने के बारे में नहीं सोचा",
+            "कल मैं नहीं आउंगा",
+            "मैं कल आने वाला नहीं हूँ"
+            ]
+            },
+            {
+            "category": "Hindi to English",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "इस वाक्य का अनुवाद करें 'मुझे यकीन नहीं हो रहा कि वह आजाएगा'",
+            "correct_answer": "I am not sure if he/she will come",
+            "incorrect_answers": [
+            "I am sure he/she will come today",
+            "I don't think he/she will come today",
+            "He/she will definitely come today"
+            ]
+            },
+            {
+            "category": "English ",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "इस वाक्य का अनुवाद करें 'The concert was cancelled due to rain' ",
+            "correct_answer": "बारिश के कारण कॉन्सर्ट रद्द कर दिया गया था",
+            "incorrect_answers": [
+            "कॉन्सर्ट बंद कर दिया गया था क्योंकि बारिश हो रही थी",
+            "कॉन्सर्ट रद्द हो गया क्योंकि बारिश हो रही थी",
+            "कॉन्सर्ट के लिए बारिश के कारण नहीं आए"
+            ]
+            },
+            {
+            "category": "Hindi to English",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "इस वाक्य का अनुवाद करें 'उसे उस समस्या का समाधान नहीं मिल रहा है'",
+            "correct_answer": "He is not finding a solution to that problem",
+            "incorrect_answers": [
+            "He has found a solution to that problem",
+            "He is not interested in solving that problem",
+            "That problem does not have a solution for him"
+            ]
+            }
           
     ]
 }
