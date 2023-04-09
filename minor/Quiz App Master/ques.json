@@ -61,18 +61,6 @@
           },
           
         {
-            "category": "English Language",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the term for a word that is spelled incorrectly, but sounds like the correct word",
-            "correct_answer": "Homophone",
-            "incorrect_answers": [
-                "Synonym",
-                "Antonym",
-                "Anagram"
-            ]
-        },
-        {
             "category": "Hindi Language",
             "type": "multiple",
             "difficulty": "easy",
