@@ -1,290 +1,293 @@
 {
-    "response_code": 0,
-    "results": [
-        {
-            "category": "English Language",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें 'a girl and a woman'",
-            "correct_answer": "एक लड़की और एक महिला",
-            "incorrect_answers": [
-                "एक लड़की और एक बालिका",
-                "एक औरत और एक लड़की",
-                "एक आदमी और एक औरत"
-            ]
-        },
-        {
-            "category": "Hindi Language",
-            "type": "boolean",
-            "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें 'मै दुखी नहीं हूँ'",
-            "correct_answer": "I am not sad",
-            "incorrect_answers": ["I am sad", "I am happy", "I am angry"]
-        },
-        {
-            "category": "Hindi Language",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें 'My sister is not tall'",
-            "correct_answer": "मेरी बहन लंबी नहीं है",
-            "incorrect_answers": [
-              "मेरी बहन बहुत लंबी है",
-              "मेरी बहन कम लंबी है",
-              "मेरी बहन बहुत छोटी है"
-            ]
-          },
-          
-          {
-            "category": "Hindi Language",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "इस वाक्य का अनुवाद करें 'तुम्हारी कुर्सी आरामदायक है'",
-            "correct_answer": "Your chair is comfortable",
-            "incorrect_answers": [
-              "Your chair is uncomfortable",
-              "Your chair is broken",
-              "Your chair is beautiful"
-            ]
-          },
-          
-          {
-            "category": "Hindi Language",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें 'मेरे दादा दादी कबड्डी देखते हैं।'",
-            "correct_answer": "My grandparents watch kabaddi.",
-            "incorrect_answers": [
-              "My parents watch kabaddi.",
-              "My siblings watch kabaddi.",
-              "My friends watch kabaddi."
-            ]
-          },
-          
-        {
-            "category": "Hindi Language",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें 'That is her cat.'",
-            "correct_answer": "वह उसकी बिल्ली है।",
-            "incorrect_answers": [
-              "वह उसका कुत्ता है।",
-              "वह उसका घर है।",
-              "वह उसकी गाड़ी है।"
-            ]
-          },
-          
-          {
-            "category": "Hindi Language",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें 'Is this your jacket?'",
-            "correct_answer": "क्या यह आपकी जैकेट है",
-            "incorrect_answers": [
-              "क्या यह आपका कोट है",
-              "क्या यह आपकी साड़ी है",
-              "क्या यह आपकी पैंट है"
-            ]
-          },
-          
-          {
-            "category": "Hindi Language",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें 'They meet every Saturday.'",
-            "correct_answer": "वे हर शनिवार मिलते हैं।",
-            "incorrect_answers": [
-              "वे हर मंगलवार मिलते हैं।",
-              "वे हर बुधवार मिलते हैं।",
-              "वे हर गुरुवार मिलते हैं।"
-            ]
-          },
-          
-          {
-            "category": "Hindi Language",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें 'मेरे माता पिता फुटबॉल देखते हैं।'",
-            "correct_answer": "My parents watch football.",
-            "incorrect_answers": [
-              "My parents play football.",
-              "I watch football with my parents.",
-              "My parents like basketball."
-            ]
-          },
-          
-          {
-            "category": "Hindi Language",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें 'एक और दो'",
-            "correct_answer": "One and two",
-            "incorrect_answers": [
-              "Two and three",
-              "Three and four",
-              "Four and five"
-            ]
-          },
-          
-          {
-            "category": "Hindi Language",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें 'One and two'",
-            "correct_answer": "एक और दो",
-            "incorrect_answers": [
-              "दो और तीन",
-              "तीन और चार",
-              "चार और पांच"
-            ]
-          },
-          
-          {
-            "category": "Hindi Language",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें 'हम लड़कियाँ हैं'",
-            "correct_answer": "We are girls.",
-            "incorrect_answers": [
-              "They are girls.",
-              "You are girls.",
-              "I am a girl."
-            ]
-          },
-          
-          {
-            "category": "Hindi Language",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें 'मेरी बहन को फ्रेंच किताबें पसंद हैं'",
-            "correct_answer": "My sister likes French books.",
-            "incorrect_answers": [
-              "My brother likes French books.",
-              "My father likes French books.",
-              "My mother likes French books."
-            ]
-          },
-          
-          {
-            "category": "Hindi Language",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें 'आदमी और औरतें'",
-            "correct_answer": "Men and women",
-            "incorrect_answers": [
-              "Boys and girls",
-              "Fathers and mothers",
-              "Brothers and sisters"
-            ]
-          },
-          
-          {
-            "category": "Hindi Language",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें 'I drink water'",
-            "correct_answer": "मैं पानी पीता हूँ।",
-            "incorrect_answers": [
-              "मैं भोजन करता हूँ।",
-              "मैं दौड़ता हूँ।",
-              "मैं सोता हूँ।"
-            ]
-          },
-          {
-            "category": "Hindi Language",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें 'Is Aamir your friend?'",
-            "correct_answer": "क्या आमिर आपका दोस्त है",
-            "incorrect_answers": [
-              "क्या आप अपने दोस्त के साथ खेलते हो",
-              "क्या आप अपने घर में हैं",
-              "क्या आप बात करते हो"
-            ]
-          },
-          {
-            "category": "Hindi Language",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "इस अंग्रेजी वाक्य का हिंदी में अनुवाद करें: 'The intricacies of the language were lost on the foreigner.'",
-            "correct_answer": "'भाषा की जटिलताएँ विदेशी के लिए समझ में नहीं आईं।'",
-            "incorrect_answers": ["'विदेशी के लिए भाषा की जटिलताएँ समझ में नहीं आईं।'", "'भाषा की जटिलताओं को विदेशी ने नहीं समझा।'", "'भाषा की जटिलताओं से विदेशी को परेशानी हुई।'"]
-            },
-            {
-            "category": "English Language",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "इस वाक्य का अनुवाद करें: 'अध्ययन से हमें ज्ञान प्राप्त होता है।'",
-            "correct_answer": "'We gain knowledge through study.'",
-            "incorrect_answers": ["'Knowledge is gained through study.'", "'Study is the key to gaining knowledge.'", "'Through knowledge, we study.'"]
-            },
-            {
-            "category": "Hindi Language",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "इस वाक्य का अनुवाद करें: 'The mountains echoed with the sound of the temple bells.'",
-            "correct_answer": "'पहाड़ों में मंदिर की घंटियों की आवाज सुनाई दी।'",
-            "incorrect_answers": ["'पहाड़ों में घंटियों की आवाज सुनाई दी।'", "'मंदिर की घंटियों की आवाज पहाड़ों से गूंज उठी।'", "'पहाड़ों में मंदिर की घंटियों की गूंज सुनाई दी।'"]
-            },
-          {
-            "category": "Hindi Language",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "इस वाक्य का अनुवाद करें 'हम कभी नहीं नाचते हैं।'",
-            "correct_answer": "We never dance.",
-            "incorrect_answers": [
-              "We always dance.",
-              "We sometimes dance.",
-              "We rarely dance."
-            ]
-          },
-          {
-            "category": "English ",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "इस वाक्य का अनुवाद करें 'I am not sure if I can come tomorrow' ",
-            "correct_answer": "मुझे नहीं पता कि कल मैं आ सकता हूँ या नहीं",
-            "incorrect_answers": [
-            "मैं कल आने के बारे में नहीं सोचा",
-            "कल मैं नहीं आउंगा",
-            "मैं कल आने वाला नहीं हूँ"
-            ]
-            },
-            {
-            "category": "Hindi to English",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "इस वाक्य का अनुवाद करें 'मुझे यकीन नहीं हो रहा कि वह आजाएगा'",
-            "correct_answer": "I am not sure if he/she will come",
-            "incorrect_answers": [
-            "I am sure he/she will come today",
-            "I don't think he/she will come today",
-            "He/she will definitely come today"
-            ]
-            },
-            {
-            "category": "English ",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "इस वाक्य का अनुवाद करें 'The concert was cancelled due to rain' ",
-            "correct_answer": "बारिश के कारण कॉन्सर्ट रद्द कर दिया गया था",
-            "incorrect_answers": [
-            "कॉन्सर्ट बंद कर दिया गया था क्योंकि बारिश हो रही थी",
-            "कॉन्सर्ट रद्द हो गया क्योंकि बारिश हो रही थी",
-            "कॉन्सर्ट के लिए बारिश के कारण नहीं आए"
-            ]
-            },
-            {
-            "category": "Hindi to English",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "इस वाक्य का अनुवाद करें 'उसे उस समस्या का समाधान नहीं मिल रहा है'",
-            "correct_answer": "He is not finding a solution to that problem",
-            "incorrect_answers": [
-            "He has found a solution to that problem",
-            "He is not interested in solving that problem",
-            "That problem does not have a solution for him"
-            ]
-            }
-          
-    ]
+  "response_code": 0,
+  "results": [
+    {
+      "category": "English Language",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "इस वाक्य का अनुवाद करें 'a girl and a woman'",
+      "correct_answer": "एक लड़की और एक महिला",
+      "incorrect_answers": [
+        "एक लड़की और एक बालिका",
+        "एक औरत और एक लड़की",
+        "एक आदमी और एक औरत"
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "इस वाक्य का अनुवाद करें 'मै दुखी नहीं हूँ'",
+      "correct_answer": "I am not sad",
+      "incorrect_answers": [
+        "I am sad",
+        "I am happy",
+        "I am angry"
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "इस वाक्य का अनुवाद करें 'My sister is not tall'",
+      "correct_answer": "मेरी बहन लंबी नहीं है",
+      "incorrect_answers": [
+        "मेरी बहन बहुत लंबी है",
+        "मेरी बहन कम लंबी है",
+        "मेरी बहन बहुत छोटी है"
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "इस वाक्य का अनुवाद करें 'तुम्हारी कुर्सी आरामदायक है'",
+      "correct_answer": "Your chair is comfortable",
+      "incorrect_answers": [
+        "Your chair is uncomfortable",
+        "Your chair is broken",
+        "Your chair is beautiful"
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "इस वाक्य का अनुवाद करें 'मेरे दादा दादी कबड्डी देखते हैं।'",
+      "correct_answer": "My grandparents watch kabaddi.",
+      "incorrect_answers": [
+        "My parents watch kabaddi.",
+        "My siblings watch kabaddi.",
+        "My friends watch kabaddi."
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "इस वाक्य का अनुवाद करें 'That is her cat.'",
+      "correct_answer": "वह उसकी बिल्ली है।",
+      "incorrect_answers": [
+        "वह उसका कुत्ता है।",
+        "वह उसका घर है।",
+        "वह उसकी गाड़ी है।"
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "इस वाक्य का अनुवाद करें 'Is this your jacket?'",
+      "correct_answer": "क्या यह आपकी जैकेट है",
+      "incorrect_answers": [
+        "क्या यह आपका कोट है",
+        "क्या यह आपकी साड़ी है",
+        "क्या यह आपकी पैंट है"
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "इस वाक्य का अनुवाद करें 'They meet every Saturday.'",
+      "correct_answer": "वे हर शनिवार मिलते हैं।",
+      "incorrect_answers": [
+        "वे हर मंगलवार मिलते हैं।",
+        "वे हर बुधवार मिलते हैं।",
+        "वे हर गुरुवार मिलते हैं।"
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "इस वाक्य का अनुवाद करें 'मेरे माता पिता फुटबॉल देखते हैं।'",
+      "correct_answer": "My parents watch football.",
+      "incorrect_answers": [
+        "My parents play football.",
+        "I watch football with my parents.",
+        "My parents like basketball."
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "इस वाक्य का अनुवाद करें 'एक और दो'",
+      "correct_answer": "One and two",
+      "incorrect_answers": [
+        "Two and three",
+        "Three and four",
+        "Four and five"
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "इस वाक्य का अनुवाद करें 'One and two'",
+      "correct_answer": "एक और दो",
+      "incorrect_answers": [
+        "दो और तीन",
+        "तीन और चार",
+        "चार और पांच"
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "इस वाक्य का अनुवाद करें 'हम लड़कियाँ हैं'",
+      "correct_answer": "We are girls.",
+      "incorrect_answers": [
+        "They are girls.",
+        "You are girls.",
+        "I am a girl."
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "इस वाक्य का अनुवाद करें 'मेरी बहन को फ्रेंच किताबें पसंद हैं'",
+      "correct_answer": "My sister likes French books.",
+      "incorrect_answers": [
+        "My brother likes French books.",
+        "My father likes French books.",
+        "My mother likes French books."
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "इस वाक्य का अनुवाद करें 'आदमी और औरतें'",
+      "correct_answer": "Men and women",
+      "incorrect_answers": [
+        "Boys and girls",
+        "Fathers and mothers",
+        "Brothers and sisters"
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "इस वाक्य का अनुवाद करें 'I drink water'",
+      "correct_answer": "मैं पानी पीता हूँ।",
+      "incorrect_answers": [
+        "मैं भोजन करता हूँ।",
+        "मैं दौड़ता हूँ।",
+        "मैं सोता हूँ।"
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "इस वाक्य का अनुवाद करें 'Is Aamir your friend?'",
+      "correct_answer": "क्या आमिर आपका दोस्त है",
+      "incorrect_answers": [
+        "क्या आप अपने दोस्त के साथ खेलते हो",
+        "क्या आप अपने घर में हैं",
+        "क्या आप बात करते हो"
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "इस अंग्रेजी वाक्य का हिंदी में अनुवाद करें: 'The intricacies of the language were lost on the foreigner.'",
+      "correct_answer": "'भाषा की जटिलताएँ विदेशी के लिए समझ में नहीं आईं।'",
+      "incorrect_answers": [
+        "'विदेशी के लिए भाषा की जटिलताएँ समझ में नहीं आईं।'",
+        "'भाषा की जटिलताओं को विदेशी ने नहीं समझा।'",
+        "'भाषा की जटिलताओं से विदेशी को परेशानी हुई।'"
+      ]
+    },
+    {
+      "category": "English Language",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "इस वाक्य का अनुवाद करें: 'अध्ययन से हमें ज्ञान प्राप्त होता है।'",
+      "correct_answer": "'We gain knowledge through study.'",
+      "incorrect_answers": [
+        "'Knowledge is gained through study.'",
+        "'Study is the key to gaining knowledge.'",
+        "'Through knowledge, we study.'"
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "इस वाक्य का अनुवाद करें: 'The mountains echoed with the sound of the temple bells.'",
+      "correct_answer": "'पहाड़ों में मंदिर की घंटियों की आवाज सुनाई दी।'",
+      "incorrect_answers": [
+        "'पहाड़ों में घंटियों की आवाज सुनाई दी।'",
+        "'मंदिर की घंटियों की आवाज पहाड़ों से गूंज उठी।'",
+        "'पहाड़ों में मंदिर की घंटियों की गूंज सुनाई दी।'"
+      ]
+    },
+    {
+      "category": "Hindi Language",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "इस वाक्य का अनुवाद करें 'हम कभी नहीं नाचते हैं।'",
+      "correct_answer": "We never dance.",
+      "incorrect_answers": [
+        "We always dance.",
+        "We sometimes dance.",
+        "We rarely dance."
+      ]
+    },
+    {
+      "category": "English ",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "इस वाक्य का अनुवाद करें 'I am not sure if I can come tomorrow' ",
+      "correct_answer": "मुझे नहीं पता कि कल मैं आ सकता हूँ या नहीं",
+      "incorrect_answers": [
+        "मैं कल आने के बारे में नहीं सोचा",
+        "कल मैं नहीं आउंगा",
+        "मैं कल आने वाला नहीं हूँ"
+      ]
+    },
+    {
+      "category": "Hindi to English",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "इस वाक्य का अनुवाद करें 'मुझे यकीन नहीं हो रहा कि वह आजाएगा'",
+      "correct_answer": "I am not sure if he/she will come",
+      "incorrect_answers": [
+        "I am sure he/she will come today",
+        "I don't think he/she will come today",
+        "He/she will definitely come today"
+      ]
+    },
+    {
+      "category": "English ",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "इस वाक्य का अनुवाद करें 'The concert was cancelled due to rain' ",
+      "correct_answer": "बारिश के कारण कॉन्सर्ट रद्द कर दिया गया था",
+      "incorrect_answers": [
+        "कॉन्सर्ट बंद कर दिया गया था क्योंकि बारिश हो रही थी",
+        "कॉन्सर्ट रद्द हो गया क्योंकि बारिश हो रही थी",
+        "कॉन्सर्ट के लिए बारिश के कारण नहीं आए"
+      ]
+    },
+    {
+      "category": "Hindi to English",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "इस वाक्य का अनुवाद करें 'उसे उस समस्या का समाधान नहीं मिल रहा है'",
+      "correct_answer": "He is not finding a solution to that problem",
+      "incorrect_answers": [
+        "He has found a solution to that problem",
+        "He is not interested in solving that problem",
+        "That problem does not have a solution for him"
+      ]
+    }
+  ]
 }
