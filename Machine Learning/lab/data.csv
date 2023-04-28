@@ -1,5 +1,5 @@
-time , weather , temperature , company , humidity , wind , res
-morning , sunny , warm , yes , mild , strong , yes
-evening , rainy , cold , no , mild , normal , no
-morining , sunny , moderate , yes , normal , yes
-evening , sunny , cold , no high , strong , yes
+Item num,X,Y,Output
+1,3,4,TRUE
+2,1,5,FALSE
+3,2,4,TRUE
+4,2,3,FALSE
